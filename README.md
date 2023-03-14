@@ -1,7 +1,7 @@
-### Hello World👋
+### Hi👋
 
 My name is Shrivats. I like to tackle challenging problems with potential for positive real life impact. 
-I'm currently interested in and working on Deep Learning projects lying on the intersection of Computer Vision and Natural Language Processing.
+I'm currently interested in, and working on Deep Learning projects lying on the intersection of Computer Vision and Natural Language Processing.
 
 <!--
 **ShrivatsAgrawal/ShrivatsAgrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
